@@ -1,5 +1,8 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<label>name</label>
+<input type="text"/>
+<label>passwd</label>
+<input type="text"/>
 </body>
 </html>
